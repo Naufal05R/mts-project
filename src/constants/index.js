@@ -2,7 +2,7 @@ import { alquran, pray, shalat } from "../assets";
 
 export const navLinks = [
   {
-    id: "home",
+    id: "",
     title: "Home",
   },
   {
@@ -24,6 +24,138 @@ export const heroParagraph = [
   "Religius",
   "Edukatif",
   "Kompetitif",
+];
+
+export const aboutList = [
+  {
+    title: "Masjid",
+    img: {
+      url: "",
+      alt: "masjid",
+    },
+  },
+  {
+    title: "Masjid",
+    img: {
+      url: "",
+      alt: "masjid",
+    },
+  },
+  {
+    title: "Masjid",
+    img: {
+      url: "",
+      alt: "masjid",
+    },
+  },
+  {
+    title: "Masjid",
+    img: {
+      url: "",
+      alt: "masjid",
+    },
+  },
+  {
+    title: "Masjid",
+    img: {
+      url: "",
+      alt: "masjid",
+    },
+  },
+  {
+    title: "Masjid",
+    img: {
+      url: "",
+      alt: "masjid",
+    },
+  },
+];
+
+export const programList = [
+  {
+    title: "",
+    img: {
+      url: "",
+      alt: "",
+    },
+  },
+  {
+    title: "",
+    img: {
+      url: "",
+      alt: "",
+    },
+  },
+  {
+    title: "",
+    img: {
+      url: "",
+      alt: "",
+    },
+  },
+  {
+    title: "",
+    img: {
+      url: "",
+      alt: "",
+    },
+  },
+  {
+    title: "",
+    img: {
+      url: "",
+      alt: "",
+    },
+  },
+  {
+    title: "",
+    img: {
+      url: "",
+      alt: "",
+    },
+  },
+  {
+    title: "",
+    img: {
+      url: "",
+      alt: "",
+    },
+  },
+  {
+    title: "",
+    img: {
+      url: "",
+      alt: "",
+    },
+  },
+  {
+    title: "",
+    img: {
+      url: "",
+      alt: "",
+    },
+  },
+  {
+    title: "",
+    img: {
+      url: "",
+      alt: "",
+    },
+  },
+  {
+    title: "",
+    img: {
+      url: "",
+      alt: "",
+    },
+  },
+  {
+    title: "",
+    img: {
+      url: "",
+      alt: "",
+    },
+  },
 ];
 
 export const primeList = [
