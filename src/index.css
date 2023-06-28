@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap');
+@import url('keyframe.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-line {
+  background-image: linear-gradient(#38bdf8, #38bdf8);
+  background-repeat: no-repeat;
+}
+
+@layer components {
+  .text-animate-base {
+    animation: base infinite 10s ease-in-out;
+  }
+
+  .animate-line-base {
+    background-position: 0 calc(100% - 4px);
+    background-size: 100% calc(4px * 2);
+  }
+
+  .text-animate-md {
+    animation: md infinite 10s ease-in-out;
+  }
+
+  .animate-line-md {
+    background-position: 0 calc(100% - 7px);
+    background-size: 100% calc(7px * 2);
+  }
+
+  .text-animate-xl {
+    animation: xl infinite 10s ease-in-out;
+  }
+
+  .animate-line-xl {
+    background-position: 0 calc(100% - 9px);
+    background-size: 100% calc(9px * 2);
+  }
+
+  .text-animate {
+    @apply text-animate-base md:text-animate-md xl:text-animate-xl;
+  }
+
+  .animate-line {
+    @apply text-line animate-line-base md:animate-line-md xl:animate-line-xl;
+  }
+}

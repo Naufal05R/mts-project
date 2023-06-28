@@ -1,0 +1,197 @@
+@keyframes base {
+  0% {
+    top: calc(33px * -0);
+  }
+  5% {
+    top: calc(33px * -0);
+  }
+  10% {
+    top: calc(33px * -0);
+  }
+  15% {
+    top: calc(33px * -0);
+  }
+  20% {
+    top: calc(33px * -0);
+  }
+  25% {
+    top: calc(33px * -1);
+  }
+  30% {
+    top: calc(33px * -1);
+  }
+  35% {
+    top: calc(33px * -1);
+  }
+  40% {
+    top: calc(33px * -1);
+  }
+  45% {
+    top: calc(33px * -1);
+  }
+  50% {
+    top: calc(33px * -2);
+  }
+  55% {
+    top: calc(33px * -2);
+  }
+  60% {
+    top: calc(33px * -2);
+  }
+  65% {
+    top: calc(33px * -2);
+  }
+  70% {
+    top: calc(33px * -2);
+  }
+  75% {
+    top: calc(33px * -3);
+  }
+  80% {
+    top: calc(33px * -3);
+  }
+  85% {
+    top: calc(33px * -3);
+  }
+  90% {
+    top: calc(33px * -3);
+  }
+  95% {
+    top: calc(33px * -3);
+  }
+  100% {
+    top: calc(33px * -4);
+  }
+}
+
+@keyframes md {
+  0% {
+    top: calc(42px * -0);
+  }
+  5% {
+    top: calc(42px * -0);
+  }
+  10% {
+    top: calc(42px * -0);
+  }
+  15% {
+    top: calc(42px * -0);
+  }
+  20% {
+    top: calc(42px * -0);
+  }
+  25% {
+    top: calc(42px * -1);
+  }
+  30% {
+    top: calc(42px * -1);
+  }
+  35% {
+    top: calc(42px * -1);
+  }
+  40% {
+    top: calc(42px * -1);
+  }
+  45% {
+    top: calc(42px * -1);
+  }
+  50% {
+    top: calc(42px * -2);
+  }
+  55% {
+    top: calc(42px * -2);
+  }
+  60% {
+    top: calc(42px * -2);
+  }
+  65% {
+    top: calc(42px * -2);
+  }
+  70% {
+    top: calc(42px * -2);
+  }
+  75% {
+    top: calc(42px * -3);
+  }
+  80% {
+    top: calc(42px * -3);
+  }
+  85% {
+    top: calc(42px * -3);
+  }
+  90% {
+    top: calc(42px * -3);
+  }
+  95% {
+    top: calc(42px * -3);
+  }
+  100% {
+    top: calc(42px * -4);
+  }
+}
+
+@keyframes xl {
+  0% {
+    top: calc(58.5px * -0);
+  }
+  5% {
+    top: calc(58.5px * -0);
+  }
+  10% {
+    top: calc(58.5px * -0);
+  }
+  15% {
+    top: calc(58.5px * -0);
+  }
+  20% {
+    top: calc(58.5px * -0);
+  }
+  25% {
+    top: calc(58.5px * -1);
+  }
+  30% {
+    top: calc(58.5px * -1);
+  }
+  35% {
+    top: calc(58.5px * -1);
+  }
+  40% {
+    top: calc(58.5px * -1);
+  }
+  45% {
+    top: calc(58.5px * -1);
+  }
+  50% {
+    top: calc(58.5px * -2);
+  }
+  55% {
+    top: calc(58.5px * -2);
+  }
+  60% {
+    top: calc(58.5px * -2);
+  }
+  65% {
+    top: calc(58.5px * -2);
+  }
+  70% {
+    top: calc(58.5px * -2);
+  }
+  75% {
+    top: calc(58.5px * -3);
+  }
+  80% {
+    top: calc(58.5px * -3);
+  }
+  85% {
+    top: calc(58.5px * -3);
+  }
+  90% {
+    top: calc(58.5px * -3);
+  }
+  95% {
+    top: calc(58.5px * -3);
+  }
+  100% {
+    top: calc(58.5px * -4);
+  }
+}
