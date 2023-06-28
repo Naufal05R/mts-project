@@ -42,10 +42,12 @@ const About = () => {
             variants={textVariant(1)}
             className="w-full grow text-justify text-[16px] font-medium md:text-[20px] xl:text-[24px]"
           >
-            Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-            vulputate libero et velit interdum, ac aliquet odio mattis. Horem
-            ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate
-            libero et velit interdum, ac aliquet odio mattis.
+            Madrasah Aliyah (MA) Sirojul Falah telah berdiri sejak tahun 1311 H
+            (1990 M), menyelenggarakan kegiatan belajar mengajar setingkat
+            SLTA/Aliyah, dengan jumlah seluruh anak didik, di tahun 2018,
+            sebanyak 141 murid laki-laki dan perempuan, dengan jumlah guru didik
+            sebanyak 21 orang, yang tersebar kedalam 9 kelas, masing-masing
+            kelas rata-rata terdapat 17 murid anak didik.
           </motion.p>
           <motion.button
             variants={zoomIn(0.75, 0.25)}
